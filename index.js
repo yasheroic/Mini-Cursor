@@ -95,7 +95,7 @@ async function processUserQuery(userQuery) {
   while (true) {
     try {
       const response = await openai.chat.completions.create({
-        model: "gpt-4o-mini",
+        model: "gpt-4o",
         response_format: { type: "json_object" },
         messages: messages,
       });

@@ -86,3 +86,25 @@ The application uses environment variables for configuration:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+## Contributing
+
+Feel free to submit issues and enhancement requests!
+
+->
+
+## Contributing
+
+Feel free to submit issues and enhancement requests!
+
+### AI Code Review
+
+This repository includes an AI-powered code review feature that automatically analyzes pull requests. When you raise a PR, our AI system will:
+
+- Review your code for potential issues and improvements
+- Suggest optimizations and best practices
+- Check for security vulnerabilities
+- Ensure code quality and consistency
+- Provide automated feedback to help maintain high code standards
+
+Simply create a pull request and the AI review will be triggered automatically!
