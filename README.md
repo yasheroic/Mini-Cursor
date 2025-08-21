@@ -82,17 +82,6 @@ The application uses environment variables for configuration:
 - `openai`: OpenAI API client
 - `dotenv`: Environment variable management
 
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-->
-
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
